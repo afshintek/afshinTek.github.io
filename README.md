@@ -15,5 +15,5 @@ I'm here to learn, build, and break things. This repo is where I document the jo
 
 ## 💬 Hit Me Up
 
-Got something to say? Wanna collab or just talk code? Drop me a line. Let's connect and make some awesome stuff.
+Got something to say? Wanna collab or just talk code? Drop me a line. im down for it :)
 
