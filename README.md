@@ -1,7 +1,7 @@
 # afshintek.github.io
 # 💻 My Developer Portfolio
 
-Welcome to my dev space. I'm just starting out, but I'm here to share some stuff with **Rust**, **Python**, and **JavaScript**. This is where I keep all my projects—some cool, some experimental, but all part of the grind.
+Welcome to my dev space. I'm here to share stuff that I find interesting on my journey; which are mostly with **Rust**, **Python**, and **JavaScript**. This is where I keep all my projects—some cool, some experimental, but all part of the grind.
 
 ## 🔧 What's Inside?
 
