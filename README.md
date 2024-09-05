@@ -6,7 +6,7 @@ Welcome to my dev space. I'm here to share stuff that I find interesting on my j
 ## 🔧 What's Inside?
 project that i build, using me favorite tools:
 - **Rust:** you'll know why.
-- **Python:** My go-to for quick hacks, scripts, and solid backend work.
+- **Python:** My go-to for quick hacks, scripts, and solid backend work.   
    *last but not least:*
 - **JavaScript:** Making the web tick, one line at a time.
 
