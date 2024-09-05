@@ -7,7 +7,7 @@ Welcome to my dev space. I'm here to share stuff that I find interesting on my j
 project that i build, using me favorite tools:
 - **Rust:** you'll know why.
 - **Python:** My go-to for quick hacks, scripts, and solid backend work.
-- last but not least:
+*last but not least:*
 - **JavaScript:** Making the web tick, one line at a time.
 
 ## 🎯 The Goal
