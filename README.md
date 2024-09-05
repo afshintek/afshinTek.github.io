@@ -16,5 +16,6 @@ This repo is where I document the journey.
 
 ## 💬 Hit Me Up
 
-Got something to say? Wanna collab or just talk code?\ Drop me a line. I'm down for it :)
+Got something to say? Wanna collab or just talk code?\
+Drop me a line. I'm down for it :)
 
